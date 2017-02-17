@@ -1,0 +1,2 @@
+set PATH=%PATH%;%CD%
+set CRAWLER_HOME=%CD%

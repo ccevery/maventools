@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+
+<project default="main" basedir=".">
+
+	<property file="export.properties"/>
+	
+	<echo message="export to  ${exportDir}" />
+
+	<target name="main">
+		<copy file="../target/merge.mavens-0.0.1.jar" tofile="${exportDir}/lib/merge.mavens-0.0.1.jar" />
+		<copy todir="${exportDir}/bin/">
+					<fileset dir="./bin/" />
+				</copy>
+	</target>
+
+</project>

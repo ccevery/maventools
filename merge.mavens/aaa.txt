@@ -1,0 +1,6 @@
+C:/dev/neonJEE/apitest/aaaa
+
+C:/dev/neonJEE/simpleIndex/com.wywant.simpleindex.parent/wywant.simpleindex.commons2
+C:/dev/neonJEE/simpleIndex/com.wywant.simpleindex.parent/wywant.simpleindex.reader2
+C:/dev/neonJEE/simpleIndex/com.wywant.simpleindex.parent/wywant.simpleindex.writer2
+
